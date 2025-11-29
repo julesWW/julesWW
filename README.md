@@ -15,7 +15,12 @@ Plus précisément :
   </ul>
 <li> Je développe avec : </li>
   <ul>
-    <li>![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/css-%23E34F26.svg?logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/javascript-%23323330.svg?logo=php&logoColor=%23F7DF1E)</li>
+    <li>
+      ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white)
+      ![CSS](https://img.shields.io/badge/css-%23E34F26.svg?logo=css&logoColor=white)
+      ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
+      ![PHP](https://img.shields.io/badge/javascript-%23323330.svg?logo=php&logoColor=%23F7DF1E)
+    </li>
     <li>![JavaScript](https://img.shields.io/badge/java-%23323330.svg?logo=java&logoColor=%23F7DF1E)</li>
     <li>🅲 C, C#</li>
     <li>📊 SQL</li>
@@ -44,6 +49,7 @@ Je suis curieux, avide de connaissances,  j'aime apprendre et participer à des 
 ### Quelques statistiques sur mon activité
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julesWW&layout=compact&theme=default)
+
 
 
 
