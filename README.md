@@ -34,4 +34,11 @@ J'ai eu l'occasion de réaliser plusieurs projets, personnels ou dans le cadre d
 - 📃 un jeu sérieux sur les audits en entreprise
 
 ---
+
+# Où me retrouver/me contacter : 
+- 📧 Mail personnel : ![jules.wowa@gmail.com](jules.wowa@gmail.com)
+- 📧 Mail étudiant : ![jules.wolff-walk@etu.unistra.fr](jules.wolff-walk@etu.unistra.fr)
+- ![Python](https://img.shields.io/badge/-%23E34F26.svg?logo=github&color=white&logoColor=black) Profil github personnel : ![0nething](https://github.com/0nething)
+---
 <h1 align="center">The End</h1>
+
